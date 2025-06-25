@@ -1,11 +1,6 @@
-AUTHORS INFO:
-Charlie Conner & Brett Abitante
-2450953 & 2443690
-chconner@chapman.edu & abitante@chapman.edu
-CPSC-350-01
-Assignment 2: Not So Super Mario Bros.
 
-This was an assignment for my DSA Class, it is a terminal Super Mario emulator. It simulates random
+
+This is a CLI Super Mario emulator. It simulates random
 games and random movements by Mario and lets to user scroll through and watch how mario progresses through
 a randomly generated level, sometimes he wins... sometimes he doesnt get so lucky! Enjoy!
 
